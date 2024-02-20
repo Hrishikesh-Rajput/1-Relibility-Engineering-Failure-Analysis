@@ -1,0 +1,31 @@
+Pareto Analysis, 
+
+🚺 also known as the 80/20 rule or the law of the vital few, 
+
+🚺 is a decision-making technique that suggests that 80% of effects come from 20% of causes.
+
+🚺  It's commonly used to identify and focus on the most significant factors contributing to a particular problem. However, if you're referring to a "failure Pareto analysis," it could mean applying this technique specifically to analyze and address failures in a system or process.
+
+
+
+💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 💐 
+
+👨 👨 Real-world Problem: Customer Complaints in a Call Center
+
+
+
+👨 Define the Problem: The problem is an increasing number of customer complaints in a call center, leading to decreased customer satisfaction.
+
+👨 Collect Data: Gather data on customer complaints over a specific period. Categories could include billing issues, product defects, service delays, etc.
+
+👨 Categorize Failures: Group the complaints into different categories like billing errors, product defects, service delays, rude customer service, etc.
+
+👨 Quantify Occurrences: Determine the frequency of each complaint category. For example, you might find that billing errors and service delays are the most common.
+
+👨 Rank the Categories: Identify the top 20% of complaint categories that contribute to 80% of the overall dissatisfaction. Let's say you find that billing errors and service delays are the primary contributors.
+
+👨 Root Cause Analysis: Dig deeper into billing errors and service delays. Is it a system issue, a training problem, or a process flaw? Identify the root causes for each of these top categories.
+
+👨 Develop Solutions: Implement solutions to address the root causes. For billing errors, it might involve improving the billing system or providing additional training to staff. For service delays, it could be optimizing processes or increasing staff during peak times.
+
+👨 Monitor and Evaluate: Continuously monitor customer complaints after implementing changes. Evaluate whether the identified issues are decreasing. Adjust your strategies as needed, and ensure that customer satisfaction is improving.
